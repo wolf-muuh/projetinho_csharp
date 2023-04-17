@@ -1,0 +1,15 @@
+C:\Users\54750759805\Desktop\projetinho_csharp\bin\Debug\net7.0\projetinho_csharp.exe
+C:\Users\54750759805\Desktop\projetinho_csharp\bin\Debug\net7.0\projetinho_csharp.deps.json
+C:\Users\54750759805\Desktop\projetinho_csharp\bin\Debug\net7.0\projetinho_csharp.runtimeconfig.json
+C:\Users\54750759805\Desktop\projetinho_csharp\bin\Debug\net7.0\projetinho_csharp.dll
+C:\Users\54750759805\Desktop\projetinho_csharp\bin\Debug\net7.0\projetinho_csharp.pdb
+C:\Users\54750759805\Desktop\projetinho_csharp\obj\Debug\net7.0\projetinho_csharp.csproj.AssemblyReference.cache
+C:\Users\54750759805\Desktop\projetinho_csharp\obj\Debug\net7.0\projetinho_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54750759805\Desktop\projetinho_csharp\obj\Debug\net7.0\projetinho_csharp.AssemblyInfoInputs.cache
+C:\Users\54750759805\Desktop\projetinho_csharp\obj\Debug\net7.0\projetinho_csharp.AssemblyInfo.cs
+C:\Users\54750759805\Desktop\projetinho_csharp\obj\Debug\net7.0\projetinho_csharp.csproj.CoreCompileInputs.cache
+C:\Users\54750759805\Desktop\projetinho_csharp\obj\Debug\net7.0\projetinho_csharp.dll
+C:\Users\54750759805\Desktop\projetinho_csharp\obj\Debug\net7.0\refint\projetinho_csharp.dll
+C:\Users\54750759805\Desktop\projetinho_csharp\obj\Debug\net7.0\projetinho_csharp.pdb
+C:\Users\54750759805\Desktop\projetinho_csharp\obj\Debug\net7.0\projetinho_csharp.genruntimeconfig.cache
+C:\Users\54750759805\Desktop\projetinho_csharp\obj\Debug\net7.0\ref\projetinho_csharp.dll
